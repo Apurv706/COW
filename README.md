@@ -1,0 +1,2 @@
+# COW
+Correlates of War
